@@ -1,1 +1,1 @@
-这是对论文结果的复现，主要采用时变稳健加权最小二乘法，数据来源是1927-2019年的标普指数，是对OLS的改进。
+This is a reproduction of the results of the paper, mainly using the time-varying robust weighted least squares method, and the data source is the S&P index from 1927 to 2019, which is an improvement on OLS.
