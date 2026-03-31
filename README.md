@@ -2,6 +2,7 @@ Forecasting Stock Returns: A Time-Varying Robust Weighted Least Squares (TRWLS) 
 ![alt text](https://img.shields.io/badge/python-3.8%2B-blue)
 
 ![alt text](https://img.shields.io/badge/license-MIT-green)
+
 This repository provides a Python implementation/reproduction of the paper: "Forecasting stock returns: A time-varying robust weighted least squares approach".
 Original Paper Link: Journal of Management Science and Engineering (2021),https://jmsc.tju.edu.cn/jmsc/article/abstract/202102150275
 
